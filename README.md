@@ -10,3 +10,6 @@ In this part you have to construct two Bayesian classifiers so as to classify bo
 
 ### Plot estimated PDFs along with the decision boundary (2D):
 ![alt text](https://github.com/Ghafarian-code/Bayesian-Classification-oneGaussianDistribution/blob/master/images/2D%20estimated%20PDFs%20data1.jpg)
+
+### Comparison of two datasets: 
+Also, due to the greater variance of the first dataset, the horizontal elongation of the curves of dataset 1 is less than that of the second dataset.
